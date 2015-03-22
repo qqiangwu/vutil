@@ -281,6 +281,7 @@ unittest {
 	assert(b.getAll("a") == [1, 2]);
 }
 
+/*
 unittest {
 	import vson.json;
 	import vson.serialization;
@@ -303,3 +304,4 @@ unittest {
 	serializeToJson(appc, c);
 	assert(appc.data == `[{"key":"a","value":1},{"key":"a","value":3}]`, appc.data);
 }
+*/

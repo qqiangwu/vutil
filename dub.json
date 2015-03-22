@@ -1,11 +1,10 @@
 {
-	"name": "vutil",
-	"description": "vibe.util extraction",
+    "name": "vutil",
+    "description": "vibe.util extraction",
     "copyright": "Copyright © 2015, qqiangwu",
     "authors": ["qqiangwu"],
     "license": "MIT",
-	"dependencies": {
-        "vmeta": "~>0.0.1",
-        "vson": "~master"
-	}
+    "dependencies": {
+        "vmeta": "~>0.0.1"
+    }
 }
